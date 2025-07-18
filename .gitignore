@@ -1,3 +1,4 @@
 # Ignore environment variables and uploads
 .env
 uploads/ 
+node_modules/ 
