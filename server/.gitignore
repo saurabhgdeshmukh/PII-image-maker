@@ -1,0 +1,4 @@
+# Ignore environment variables, uploads, and dependencies
+.env
+uploads/
+node_modules/ 
